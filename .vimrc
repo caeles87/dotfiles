@@ -1,5 +1,10 @@
-call plug#begin('~/.vim/plugged')
-call plug#end()
+execute pathogen#infect()
+
+filetype plugin indent on
+syntax on
+
+"call plug#begin('~/.vim/plugged')
+"call plug#end()
 
 syntax on
 set nu                      "Show number lines 
