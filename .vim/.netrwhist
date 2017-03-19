@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/austin/junk'
+let g:netrw_dirhist_2='/home/austin/junk/R730'
+let g:netrw_dirhist_3='/home/austin/projects/dev1_report'
+let g:netrw_dirhist_4='/home/austin/junk/begis_tables'
+let g:netrw_dirhist_5='/home/austin/projects/debian_to_ram_jessie/jessie-live-build/config/package-lists'
+let g:netrw_dirhist_6='/home/austin/projects/debian_to_ram_jessie/jessie-live-build/config/includes.chroot/mnt/image'
+let g:netrw_dirhist_7='/home/austin/projects/teampasswordmanager/update_passwords/mojo/tpm_web/pwpanel/lib/PWPanel'
+let g:netrw_dirhist_8='/home/austin/projects/live-build/config/includes.source'
